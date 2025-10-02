@@ -19,6 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_chunk$set(fig.width=8, fig.height=6)
 ```
 
+## Summary and Stuff
 
 ```{r}
 data(mtcars)

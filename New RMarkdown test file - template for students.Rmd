@@ -29,6 +29,9 @@ summary(mtcars)
 ```{r}
 plot(mtcars)
 ```
+```{r}
+head(mtcars)
+```
 
 
 
